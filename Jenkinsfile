@@ -30,8 +30,6 @@
 
 
 
-
-
 @Library("shared") _
 pipeline {
     agent { label 'Agent-A' }
